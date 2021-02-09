@@ -1,5 +1,16 @@
 {
-    "name": [],
-    "email": [],
-    "phone": []
+  "contact": [
+    {
+      "name": "Vincent",
+      "email": "my email",
+      "number": "my number",
+      "id": 1
+    },
+    {
+      "name": "Macey",
+      "email": "no email",
+      "number": "dont call me",
+      "id": 2
+    }
+  ]
 }
